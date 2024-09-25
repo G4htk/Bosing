@@ -95,23 +95,24 @@ abbr[title] {
     border-bottom: none !important;
     cursor: inherit !important;
     text-decoration: none !important;
-  }
+}
 
-  a {
+a{
     color: rgb(255, 0, 0);
     border-bottom: none !important;
     text-decoration: none !important;
-  }
+}
 
-  .cry{
-    margin-left: 10px;
+.cry{
+    margin-left: 20px;
     text-align: left;
-  }
+}
 
-  .texto{
+.texto{
     margin: 20px;
     text-align:left ;
 }
+
 .ka{
     text-align: center;
     color:red;
@@ -121,18 +122,26 @@ abbr[title] {
     color: red;
     margin: 20px;
 }
+
 .parag,
 .parag1,
 .parag2 {
     margin: 20px;
 
 }
+
 .Titulo {
 
     text-align: center;
     color: red;
 }
+
 .texMs {
     margin: 20px;
     text-align: left;
+}
+
+.sobre{
+    font-size: x-small;
+    text-align: center;
 }
